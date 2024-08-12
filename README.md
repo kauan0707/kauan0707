@@ -12,5 +12,5 @@ Meu nome é kauan Lima
 
   @Tuninho_doGrau7
 
-
-    https://media.tenor.com/1Dlnu_EdFSMAAAAi/fafuke-sasuke.gif
+  ![](https://media.tenor.com/1Dlnu_EdFSMAAAAi/fafuke-sasuke.gif)
+  
